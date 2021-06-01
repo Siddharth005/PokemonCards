@@ -1,2 +1,2 @@
 # PokemonCards
-Practice App for Javascript
+Practice App for DOM manipulationJavascript
