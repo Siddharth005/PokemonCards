@@ -1,0 +1,27 @@
+.sizing{
+    width: 9rem;
+}
+.imgSize{
+    width: 100px;
+    
+}
+div .card{
+    display: inline-block;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHr3hyZ2W0P9xzaUTBdJLJAT0Sf0iuEDGQw&usqp=CAU');
+    background-size: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+body{
+    background-image: url('https://thumbs.dreamstime.com/b/perspective-green-grass-background-view-129624401.jpg');
+    background-size:cover;
+}
